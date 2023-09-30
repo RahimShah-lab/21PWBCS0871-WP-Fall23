@@ -1,7 +1,7 @@
 //linked lists
 #include<iostream>
 using namespace std;
-
+//This is a linked list.
 class node{
 public:
 	int value;
