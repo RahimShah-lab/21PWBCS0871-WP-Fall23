@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+
+}
+#container{
+    max-width: 100%;
+}
+.image-gellary{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 100px;
+    
+
+
+}
+.image-gellary img{
+    max-width: 400px;
+    min-height: 350px;
+    padding: 0.5rem;
+
+     
+}
