@@ -1,0 +1,59 @@
+#body {
+  background-color: rgb(243, 243, 154);
+  color: rgb(32, 3, 193);
+}
+#body #home {
+  background-size: cover;
+  text-align: center;
+  padding: 100px;
+}
+#body #h2 {
+  font-size: 25px;
+}
+#body #p {
+  font-size: 18px;
+}
+
+#menu #h2 {
+  display: flex;
+  text-align: center;
+  font-size: 25%;
+}
+
+#card h2 {
+  display: flex;
+  text-align: center;
+  font-size: 25%;
+}
+#card #price {
+  font-weight: bold;
+}
+
+#container {
+  display: flex;
+  text-align: center;
+}
+#container h2 {
+  display: flex;
+  text-align: center;
+}
+#container p {
+  font-size: 10%;
+}
+
+#contact h2 {
+  display: flex;
+  text-align: center;
+}
+
+#team {
+  justify-content: center;
+  text-align: center;
+}
+
+#footer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(32, 3, 193);
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,70 @@
+$primary-color: rgb(32, 3, 193);
+$font-family: Arial sans-serif;
+#body{
+background-color: rgb(243, 243, 154);
+color:$primary-color;
+
+#home {
+  background-size: cover;
+  text-align: center;
+  padding: 100px;
+
+}
+#h2{
+    font-size: 25px;
+}
+#p{
+    font-size: 18px;
+}
+}
+#menu{
+  #h2{
+    display: flex;
+    text-align: center;
+    font-size: 25%;
+  }
+}
+#card{
+  h2{
+    display: flex;
+    text-align: center;
+    font-size: 25%;
+  }
+  #price{
+    font-weight: bold;
+  }
+}
+#container{
+  display: flex;
+  text-align: center;
+  h2{
+    display: flex;
+  text-align: center;
+  }
+  p{
+    font-size: 10%;
+  }
+}
+#contact{
+  h2{
+    display: flex;
+  text-align: center;
+  }
+}
+#team{
+  justify-content: center;
+  text-align: center;
+}
+#footer{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: $primary-color;
+}
+
+
+
+
+
+
+
